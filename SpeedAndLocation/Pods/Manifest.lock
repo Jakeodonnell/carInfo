@@ -1,0 +1,22 @@
+PODS:
+  - Charts (3.4.0):
+    - Charts/Core (= 3.4.0)
+  - Charts/Core (3.4.0)
+  - UICircularProgressRing (6.5.0)
+
+DEPENDENCIES:
+  - Charts
+  - UICircularProgressRing
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - UICircularProgressRing
+
+SPEC CHECKSUMS:
+  Charts: 74c9f256eaf0460c0c416522d1cf8c634ea6b286
+  UICircularProgressRing: e6852e8f88e296cbbbe2720cccb55241acda6708
+
+PODFILE CHECKSUM: 008dd7315332cc3b698dd6a73e08b573ffb622cc
+
+COCOAPODS: 1.9.0
